@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "金融衍生品.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "金融衍生品.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "金融衍生品.md"
+              }
             }
           },
           {
@@ -158,7 +162,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a2fc2da09fc19971",
+  "active": "6a39137985e4448e",
   "lastOpenFiles": [
     "新建文件夹",
     "金融衍生品.md",
