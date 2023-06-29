@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,7 +163,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6a39137985e4448e",
+  "active": "a2fc2da09fc19971",
   "lastOpenFiles": [
     "新建文件夹",
     "金融衍生品.md",
